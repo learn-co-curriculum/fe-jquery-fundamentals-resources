@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, libraries, jquery, beginner, dom manipulation
-type: resources
-resources: 6
----
+
 
 ## Resources
 
